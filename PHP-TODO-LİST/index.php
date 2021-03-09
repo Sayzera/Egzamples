@@ -7,7 +7,7 @@ if (isset($_POST['btnSubmit'])) {
     array_push($_SESSION['names'], $_POST['gorevAdi']);
 }
 
-?>
+?> 
 
 <!doctype html>
 <html lang="en">
